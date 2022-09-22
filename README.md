@@ -16,7 +16,7 @@ With new augmentation, Stable-Pix2seq can achieve 36 mAP at 256 epoch. Beam sear
 
 # Final pix2seq with pretrained model is released(Nov 3)
 [Pretrained Pix2Seq](https://github.com/gaopengcuhk/Pretrained-Pix2Seq). Pretrain Pix2seq repo contain many differences with this version of release which can improve mAP by 7-10. That's the reason we decide to recreate a new repo holding new code and pre-trained model.
-
+s
 
 # Stable-Pix2Seq
 A full-fledged version of Pix2Seq
